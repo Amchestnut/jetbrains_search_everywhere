@@ -1,0 +1,3 @@
+,Total Events,Average Query Length,Average Selected Index Count,Session Finished Count
+Experiment Group 0,51012,10.633341174625578,0.08219634595781385,7282
+Experiment Group 1,56332,10.702708939856565,0.08050486402045019,8004
